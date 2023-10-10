@@ -1,6 +1,9 @@
 # Portal_hashtag
+
 Desafio do curso de HTML e CSS impressionador da Hashtag Programação onde crio a pagina home do site da Hastag Treinamentos (https://www.hashtagtreinamentos.com),
-desde o ínicio, somente em html e depois vou acrescentando css e js
+desde o ínicio, somente em html e depois vou acrescentando css e js.
+O projeto esta em andamento.
+
 # Projeto Hashtag Treinamentos
 
 Este projeto faz parte do curso HTML e CSS Impressionador da Hashtag Programação. Neste curso, aprendo a criar uma página da web utilizando HTML, CSS e JavaScript.
@@ -44,5 +47,3 @@ Se você deseja contribuir para este projeto ou fazer melhorias, sinta-se à von
 ## Contato
 
 Para entrar em contato mande um email para webmorphdesign@gmail.com
-
-
